@@ -33,7 +33,7 @@ struct Person {
 
 fn main() {
     let mut p = Person {
-        name: String::from("Chaiwat"),
+        name: String::from("Z99NATZA"),
         age: 30,
     };
 
